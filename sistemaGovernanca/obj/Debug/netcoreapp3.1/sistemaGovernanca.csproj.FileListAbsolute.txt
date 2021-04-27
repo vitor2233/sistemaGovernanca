@@ -1,0 +1,15 @@
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\bin\Debug\netcoreapp3.1\sistemaGovernanca.exe
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\bin\Debug\netcoreapp3.1\sistemaGovernanca.deps.json
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\bin\Debug\netcoreapp3.1\sistemaGovernanca.runtimeconfig.json
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\bin\Debug\netcoreapp3.1\sistemaGovernanca.runtimeconfig.dev.json
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\bin\Debug\netcoreapp3.1\sistemaGovernanca.dll
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\bin\Debug\netcoreapp3.1\sistemaGovernanca.pdb
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.csprojAssemblyReference.cache
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.Form1.resources
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.csproj.GenerateResource.cache
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.AssemblyInfoInputs.cache
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.AssemblyInfo.cs
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.csproj.CoreCompileInputs.cache
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.dll
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.pdb
+E:\prog\sistemaGovernanca\sistemaGovernanca\sistemaGovernanca\obj\Debug\netcoreapp3.1\sistemaGovernanca.genruntimeconfig.cache
