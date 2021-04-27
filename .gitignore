@@ -1,0 +1,110 @@
+# Construir pastas (você pode manter bin se quiser, para armazenar dlls e pdbs)
+[ Bb ] em /
+[ Oo ] bj /
+
+# resultados do teste mstest
+Resultado dos testes
+
+# # Ignore arquivos temporários do Visual Studio, crie resultados e
+# # arquivos gerados por complementos populares do Visual Studio.
+
+# Arquivos específicos do usuário
+* .suo
+* .user
+* .sln.docstates
+/ .vs
+
+# Build results
+[ Dd ] ebug /
+[ Rr ] elease /
+x64 /
+* _i.c
+* _p.c
+* .ilk
+* .meta
+* .obj
+* .pch
+* .pdb
+* .pgc
+* .pgd
+* .rsp
+* .sbr
+* .tlb
+* .tli
+* .tlh
+* .tmp
+* .log
+* .vspscc
+* .vssscc
+.builds
+
+# Arquivos de cache do Visual C ++
+ipch /
+* .aps
+* .ncb
+* .opensdf
+* .sdf
+
+# Criador de perfil do Visual Studio
+* .psess
+* .vsp
+* .vspx
+
+# Guidance Automation Toolkit
+* .gpState
+
+# ReSharper é um suplemento de codificação .NET
+_ReSharper *
+
+# NCrunch
+* .ncrunch *
+. * crunch * .local.xml
+
+# Pasta de saída do Installshield
+[ Ee ] xpress
+
+# DocProject é um suplemento gerador de documentação
+DocProject / buildhelp /
+DocProject / Help / * .HxT
+DocProject / Help / * .HxC
+DocProject / Help / * .hhc
+DocProject / Help / * .hhk
+DocProject / Help / * .hhp
+DocProject / Help / Html2
+DocProject / Help / html
+
+# Diretório Click-Once
+publicar
+
+# Publicar saída da Web
+* .Publish.xml
+
+# NuGet Packages Directory
+pacotes
+
+# Saída de compilação do Windows Azure
+csx
+* .build.csdef
+
+# Diretório de pacote de aplicativos da Windows Store
+AppPackages /
+
+# Outros
+[ Bb ] em
+[ Oo ] bj
+sql
+Resultado dos testes
+[ Tt ] est [ Rr ] esult *
+* .Cache
+ClientBin
+[ Ss ] tyle [ Cc ] op. *
+~ $ *
+* .dbmdl
+Generated_Code  # adicionado para projetos RIA / Silverlight
+
+# Fazer backup e relatar arquivos de conversão de um arquivo de projeto antigo em um mais novo
+# Versão do Visual Studio. Arquivos de backup não são necessários, porque temos git ;-)
+_UpgradeReport_Files /
+Backup * /
+UpgradeLog * .XML
+WinForms / AdamsLair.WinForms.xml
